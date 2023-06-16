@@ -1,0 +1,9 @@
+streamlit
+langchain
+openai
+tiktoken
+unstructured
+tabulate
+pdf2image
+pytesseract
+google-search-results
